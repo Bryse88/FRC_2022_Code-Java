@@ -26,3 +26,5 @@ https://github.com/wildstang/2021_robot_software/blob/Team-111A_Main/src/main/ja
 # How to create a subsystem
 - create a class in /subsystems directory (implement Subsystem)
 - add created Subsystem to SMSubsystems.java
+
+In the frc file, you can view the variety of subsystems worked on.
